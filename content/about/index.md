@@ -22,4 +22,4 @@ showTableOfContents: false
 - 🚀 [项目经历](/projects/)
 - 📄 [个人简历](/resume/)
 - 📝 [技术文章](/posts/)
-- 💻 [博客源代码](https://github.com/WendaoSolemn/liuxuecheng.github.io)
+- 💻 [博客源代码](https://github.com/WendaoSolemn/WendaoSolemn.github.io)

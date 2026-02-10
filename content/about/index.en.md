@@ -21,4 +21,4 @@ This site is built with [Hugo](https://gohugo.io/) + [Blowfish](https://blowfish
 - 🚀 [Projects Exp.](/projects/)
 - 📄 [Resume](/resume/)
 - 📝 [Blog Posts](/posts/)
-- 💻 [Blog Source Code](https://github.com/WendaoSolemn/liuxuecheng.github.io)
+- 💻 [Blog Source Code](https://github.com/WendaoSolemn/WendaoSolemn.github.io)
