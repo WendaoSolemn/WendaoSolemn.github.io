@@ -1,0 +1,19 @@
+theme = "blowfish"
+baseURL = "https://my-blog.pages.dev/"
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = true
+enableEmoji = true
+summaryLength = 0
+
+[pagination]
+  pagerSize = 12
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
